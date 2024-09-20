@@ -1,3 +1,5 @@
+### [Repository Assignment](https://github.com/thanhhuyenn24/NT106.P12_Group14_Assignment)
+
 # Game: Tam sao thất bản online (nhiều người chơi)
 
 <table>
@@ -32,9 +34,7 @@ Mô tả ngắn gọn cách sử dụng dự án.
 </td>
 <td width="20%">
 
-### [Repository Assignment](https://github.com/thanhhuyenn24/NT106.P12_Group14_Assignment)
-
-## Thành viên
+## Danh sách nhóm
 
 1. Đoàn Thanh Thảo
    - MSSV: 23521466
@@ -47,6 +47,7 @@ Mô tả ngắn gọn cách sử dụng dự án.
 3. Đỗ Ngọc Thảo Nguyên
    - MSSV: 23521038
    - Email: 23521038@gm.uit.edu.vn
+
 </td>
 </tr>
 </table>
