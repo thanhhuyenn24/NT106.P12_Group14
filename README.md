@@ -34,7 +34,7 @@ Mô tả ngắn gọn cách sử dụng dự án.
 
 ### [Repository Assignment](https://github.com/thanhhuyenn24/NT106.P12_Group14_Assignment)
 
-## Danh sách thành viên
+## Thành viên
 
 1. Đoàn Thanh Thảo
    - MSSV: 23521466
